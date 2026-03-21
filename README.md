@@ -22,7 +22,10 @@ Don't forget to checkout [Notes](#notes) section aswell.
 <br>
 
 ## Features
-<img src="images/dialog.png" alt="Dialog" width=200/>
+<p align="center">
+  <img src="images/dialog.png" alt="Dialog" width=200/>
+</p>
+
 
 - Takes material/decal directory path as input.
 
