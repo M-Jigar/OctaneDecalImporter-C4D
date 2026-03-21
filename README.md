@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/logo.png" alt="Octane Decal Importer" width=350/>
+</p>
+
 # Octane Decal Importer
 Octane for Cinema4D finaly supports decals as a seperate object.
 
@@ -7,12 +11,18 @@ It's a nightmare when you dont know what you want and want to tryout bunch of di
 
 All the functionality is listed below in detail.
 
-Or you can skip to the Installation part which is also dead simple.
+Or you can skip to the [Installation](#installation) part which is also dead simple.
 
-Don't forget to checkout Notes section aswell.
+Don't forget to checkout [Notes](#notes) section aswell.
 
+<br>
+<h3 align="center">
+  ✦ Purchase & More Info → <a href="https://oblvyn.gumroad.com/l/octane_decal_importer"><u>GUMROAD</u></a> ✦
+</h3>
+<br>
 
 ## Features
+<img src="images/dialog.png" alt="Dialog" width=200/>
 
 - Takes material/decal directory path as input.
 
@@ -67,3 +77,10 @@ You can configure the maps by modifying `ALIASES` constant in the script.
     ```
 
 - If you encounter any error or have feature ideas you can let me know about it. I'll try to implement them it in a future release.
+
+---
+<br>
+<h3 align="center">
+  ✦ Purchase & More Info → <a href="https://oblvyn.gumroad.com/l/octane_decal_importer"><u>GUMROAD</u></a> ✦
+</h3>
+<br>
