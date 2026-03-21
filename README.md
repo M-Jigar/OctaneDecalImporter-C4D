@@ -26,10 +26,9 @@ Don't forget to checkout [Notes](#notes) section aswell.
   <img src="images/dialog.png" alt="Dialog" width=200/>
 </p>
 
-
 - Takes material/decal directory path as input.
 
-- Automatically sets up both the Decal Object and active PBR material!
+- **Automatically connectes the active PBR material (outermost material tag) with the Decal object.**
 
 - Supports selective texture maps imports or uses the available texture maps automatically by default.
 
@@ -39,6 +38,12 @@ Don't forget to checkout [Notes](#notes) section aswell.
 
 - Adds Color Correction Node and Gradient Nodes to Diffuse and Info maps respectively, fallbacks to float texture for unavailable texture maps.
 
+<br>
+
+## Limitations
+- **Right now the 'Setup Material' feature only works for Octane Glossy Material. I am working on making it work for multiple types of materials (Specular, Diffuse, Universal).** For now you can just turn it off in dialog box when importing on any other material except glossy.
+
+<br>
 
 ## Installation
 
@@ -58,6 +63,7 @@ Don't forget to checkout [Notes](#notes) section aswell.
 
 1. Press `shortcut...` button at the bottom of script manager to add it as a shortcut to your C4D layout.
 
+<br>
 
 ## Notes
 - I tried my best to auto detect texture maps with ever absurd naming conventions but its never enough!<br>
