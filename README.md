@@ -40,11 +40,6 @@ Don't forget to checkout [Notes](#notes) section aswell.
 
 <br>
 
-## Limitations
-- **Right now the 'Setup Material' feature only works for Octane Glossy Material. I am working on making it work for multiple types of materials (Specular, Diffuse, Universal).** For now you can just turn it off in dialog box when importing on any other material except glossy.
-
-<br>
-
 ## Installation
 
 1. Download and copy the whole folder `octane-decal-importer` .
