@@ -17,7 +17,7 @@ Don't forget to checkout [Notes](#notes) section aswell.
 
 <br>
 <h3 align="center">
-  ✦ Purchase & More Info → <a href="https://oblvyn.gumroad.com/l/octane_decal_importer"><u>GUMROAD</u></a> ✦
+  ✦ Purchase at → <a href="https://payhip.com/b/9WRHw"><u>PAYHIP</u></a> | <a href="https://oblvyn.gumroad.com/l/octane_decal_importer"><u>GUMROAD</u></a> ✦
 </h3>
 <br>
 
@@ -85,6 +85,6 @@ You can configure the maps by modifying `ALIASES` constant in the script.
 ---
 <br>
 <h3 align="center">
-  ✦ Purchase & More Info → <a href="https://oblvyn.gumroad.com/l/octane_decal_importer"><u>GUMROAD</u></a> ✦
+  ✦ Purchase at → <a href="https://payhip.com/b/9WRHw"><u>PAYHIP</u></a> | <a href="https://oblvyn.gumroad.com/l/octane_decal_importer"><u>GUMROAD</u></a> ✦
 </h3>
 <br>
